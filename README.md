@@ -1,9 +1,9 @@
-# Medical_Assit_AI
-# 🩺 MedAssist Pro Max
+##Medical_Assit_AI
+### 🩺 MedAssist Pro Max
 
 Advanced AI Assistant for Medical Professionals
 
-## 🚀 Features
+####🚀 Features
 
 - X-Ray Analysis
 - ECG Interpretation
@@ -11,12 +11,12 @@ Advanced AI Assistant for Medical Professionals
 - Emergency Detection
 - Lab Report Summary
 
-## 🧠 Built With
+#### 🧠 Built With
 
 - Python
 - Gradio
 - Google Gemini AI
 
-## ⚠ Disclaimer
+#### ⚠ Disclaimer
 
 For healthcare professionals only.
