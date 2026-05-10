@@ -1,9 +1,9 @@
-##Medical_Assit_AI
+## Medical_Assit_AI
 ### 🩺 MedAssist Pro Max
 
 Advanced AI Assistant for Medical Professionals
 
-####🚀 Features
+#### 🚀 Features
 
 - X-Ray Analysis
 - ECG Interpretation
