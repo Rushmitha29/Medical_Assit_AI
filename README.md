@@ -1,4 +1,4 @@
-# 🌍 EcoSort AI (v4)
+# 🌍 EcoSort AI 
 > **AI Powered • Eco Focused • Future Ready**
 
 EcoSort AI is an intelligent, multi-lingual waste segregation assistant built to promote a cleaner Earth through smart waste management. Utilizing deep learning image classification, the application automatically scans waste items, evaluates their environmental impact, delivers precise disposal recommendations, and displays real-time data metrics via an analytical dashboard.
